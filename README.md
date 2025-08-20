@@ -11,7 +11,7 @@ A powerful Python tool for generating temporary email addresses using the Mail.t
 🛠️ Installation
 Clone the repository:
 
-git clone https://github.com/a-z-exe/-temp-mail-generator.git
+git clone https://github.com/a-z-exe/temp-mail-generator.git
 cd temp-mail-generator
 Install required dependencies:
 
@@ -41,7 +41,7 @@ Automation: Integrate into automated testing workflows
 🔧 Configuration
 The tool uses these default settings:
 
-Password: Masoud@123 (for all generated accounts)
+Password: TMPMAIL_PASSWORD (for all generated accounts)
 Monitoring Time: 60 seconds
 Check Interval: 5 seconds
 You can modify these in the script as needed.
