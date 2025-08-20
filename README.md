@@ -11,7 +11,7 @@ A powerful Python tool for generating temporary email addresses using the Mail.t
 🛠️ Installation
 Clone the repository:
 
-git clone https://github.com/a-z-exe/temp-mail-generator.git
+git clone https://github.com/a-z-exe/-temp-mail-generator.git
 cd temp-mail-generator
 Install required dependencies:
 
